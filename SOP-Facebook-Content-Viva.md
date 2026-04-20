@@ -124,7 +124,57 @@ Chuẩn hóa quy trình sáng tạo, duyệt và đăng nội dung trên Faceboo
 
 ---
 
-## 7. Lịch sử cập nhật
+## 7. Từ khóa cần có trong bài viết nghe – nói tiếng Anh
+
+Khi viết bài liên quan đến kỹ năng **nghe – nói tiếng Anh**, cần lồng ghép tự nhiên các từ khóa dưới đây vào nội dung bài viết, caption và hashtag để tăng khả năng tìm kiếm và tiếp cận đúng đối tượng.
+
+### 7.1 Từ khóa kỹ năng Nghe (Listening)
+
+| Từ khóa tiếng Việt | Từ khóa tiếng Anh | Ghi chú sử dụng |
+|--------------------|-------------------|-----------------|
+| luyện nghe tiếng Anh | English listening practice | Dùng trong tiêu đề, hook bài viết |
+| cải thiện kỹ năng nghe | improve listening skills | Dùng trong body bài |
+| nghe tiếng Anh chuẩn | clear English listening | Dùng khi nói về phát âm bản ngữ |
+| luyện tai nghe tiếng Anh | train your English ear | Dùng trong tip/hướng dẫn |
+| nghe hiểu tiếng Anh | English listening comprehension | Dùng khi nói về bài tập nghe |
+| phản xạ nghe | listening reflex | Dùng khi nói về học nhanh |
+
+### 7.2 Từ khóa kỹ năng Nói (Speaking)
+
+| Từ khóa tiếng Việt | Từ khóa tiếng Anh | Ghi chú sử dụng |
+|--------------------|-------------------|-----------------|
+| luyện nói tiếng Anh | English speaking practice | Dùng trong tiêu đề, hook bài viết |
+| phát âm chuẩn | correct pronunciation | Dùng khi nói về phát âm |
+| nói tiếng Anh tự tin | speak English confidently | Dùng trong CTA, truyền cảm hứng |
+| giao tiếp tiếng Anh | English communication | Dùng khi nhấn mạnh ứng dụng thực tế |
+| phản xạ tiếng Anh | English speaking reflex | Dùng trong tip học nhanh |
+| nói như người bản xứ | speak like a native | Dùng trong hook thu hút |
+
+### 7.3 Từ khóa theo đối tượng học viên
+
+| Đối tượng | Từ khóa gợi ý |
+|-----------|---------------|
+| Trẻ em (4–12 tuổi) | tiếng Anh cho trẻ em, tiếng Anh thiếu nhi, English for kids, học tiếng Anh sớm |
+| Thiếu niên (13–17 tuổi) | tiếng Anh cho học sinh, luyện thi tiếng Anh, English for teens |
+| Người đi làm | tiếng Anh giao tiếp văn phòng, English for work, tiếng Anh công việc |
+| Người mới bắt đầu | tiếng Anh từ đầu, học tiếng Anh cơ bản, English for beginners |
+
+### 7.4 Hashtag gợi ý cho bài viết nghe – nói
+
+**Nhóm kỹ năng:**
+`#luyennghetienganh` `#luyennoitienganh` `#kynangnghe` `#kynangnoitienganh` `#phatamchuan` `#tiengAnhgiaotiep`
+
+**Nhóm học tiếng Anh:**
+`#hoctienganh` `#hoctienganhhieuqua` `#tiengAnhhangngay` `#learnenglish` `#englishspeaking` `#englishlistening`
+
+**Nhóm thương hiệu Viva:**
+`#VivaEnglish` `#NgoainguViva` `#VivaLanguageCenter` `#HocTiengAnhTaiViva`
+
+> **Lưu ý:** Mỗi bài chỉ dùng **3–5 hashtag**, ưu tiên hashtag kỹ năng liên quan trực tiếp đến nội dung bài + 1–2 hashtag thương hiệu Viva. Không nhồi nhét toàn bộ hashtag vào một bài.
+
+---
+
+## 8. Lịch sử cập nhật
 
 | Phiên bản | Ngày       | Người cập nhật | Nội dung thay đổi |
 |-----------|------------|----------------|-------------------|
