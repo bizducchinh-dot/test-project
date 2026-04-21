@@ -5,7 +5,7 @@ export function caseTransf(toolName: string, caseType?: ToolNameCase) {
     return toolName.replace(/\./g, '_');
   }
   if (caseType === 'camel') {
-    return toolName.replace(/\./g, '_').replace(/_(\ w)/g, (_, letter) => letter.toUpperCase());
+    return toolName.replace(/\./g, '_').replace(/_(\w)/g, (_, letter) => letter.toUpperCase());
   }
   if (caseType === 'kebab') {
     return toolName.replace(/\./g, '-');
