@@ -1,0 +1,23 @@
+import { z } from 'zod';
+export type directoryV1ToolName =
+  | 'directory.v1.collaborationRule.create'
+  | 'directory.v1.collaborationRule.delete'
+  | 'directory.v1.collaborationRule.list'
+  | 'directory.v1.collaborationRule.update'
+  | 'directory.v1.collaborationTenant.list'
+  | 'directory.v1.collborationShareEntity.list'
+  | 'directory.v1.department.create'
+  | 'directory.v1.department.delete'
+  | 'directory.v1.department.filter'
+  | 'directory.v1.department.mget'
+  | 'directory.v1.department.patch'
+  | 'directory.v1.department.search'
+  | 'directory.v1.employee.create'
+  | 'directory.v1.employee.delete'
+  | 'directory.v1.employee.filter'
+  | 'directory.v1.employee.mget'
+  | 'directory.v1.employee.patch'
+  | 'directory.v1.employee.regular'
+  | 'directory.v1.employee.resurrect'
+  | 'directory.v1.employee.search'
+  | 'directory.v1.employee.toBeResigned';
