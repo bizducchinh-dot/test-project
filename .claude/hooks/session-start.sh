@@ -7,3 +7,4 @@ if [ "${CLAUDE_CODE_REMOTE:-}" != "true" ]; then
 fi
 
 "${CLAUDE_PROJECT_DIR}/scripts/start-openclaw.sh" || true
+"${CLAUDE_PROJECT_DIR}/scripts/start-goclaw.sh" || true
